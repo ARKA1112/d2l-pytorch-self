@@ -1,5 +1,7 @@
 # d2l-pytorch-self
 
+9th Dec repo cloned to pc
+
 
 
 ## Getting started
